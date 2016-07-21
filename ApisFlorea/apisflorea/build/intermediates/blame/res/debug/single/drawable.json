@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\drawable\\game_loading.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\drawable\\game_loading.xml"
+    },
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg_normal.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\drawable\\dialog_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg_pressed.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\drawable\\dialog_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\drawable\\hero_boom.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\drawable\\hero_boom.xml"
+    },
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\drawable\\enemy_boom.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\drawable\\enemy_boom.xml"
+    }
+]

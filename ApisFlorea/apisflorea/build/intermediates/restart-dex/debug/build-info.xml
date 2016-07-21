@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxxhdpi"
+    format="7"
+    timestamp="30819566312782" >
+
+    <task
+        name="javac"
+        duration="192" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="7" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="C:\Project\ApisFlorea\apisflorea\build\outputs\apk\apisflorea-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="30819566312782" >
+        <artifact
+            location="C:\Project\ApisFlorea\apisflorea\build\outputs\apk\apisflorea-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

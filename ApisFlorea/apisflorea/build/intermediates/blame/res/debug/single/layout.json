@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loading.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_game.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\layout\\dialog_game.xml"
+    }
+]

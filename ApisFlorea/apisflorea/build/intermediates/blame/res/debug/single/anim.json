@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\anim\\dialog_exit.xml"
+    }
+]

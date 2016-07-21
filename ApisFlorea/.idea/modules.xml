@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApisFlorea.iml" filepath="$PROJECT_DIR$/ApisFlorea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apisflorea/apisflorea.iml" filepath="$PROJECT_DIR$/apisflorea/apisflorea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apisflorea/planeWar.iml" filepath="$PROJECT_DIR$/apisflorea/planeWar.iml" />
+    </modules>
+  </component>
+</project>

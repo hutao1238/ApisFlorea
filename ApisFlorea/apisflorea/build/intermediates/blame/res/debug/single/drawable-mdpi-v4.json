@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\game_loading1.png",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\drawable-mdpi\\game_loading1.png"
+    },
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\game_loading3.png",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\drawable-mdpi\\game_loading3.png"
+    },
+    {
+        "merged": "C:\\Project\\ApisFlorea\\apisflorea\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\game_loading2.png",
+        "source": "C:\\Project\\ApisFlorea\\apisflorea\\src\\main\\res\\drawable-mdpi\\game_loading2.png"
+    }
+]
